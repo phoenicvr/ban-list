@@ -2,7 +2,6 @@
 ### People that you should ban from your Discord Server
 > [!IMPORTANT]
 > All of these users have broken guidelines, such as Hacking/Cheating/Modding, Doxxing, Scamming, Pornography, Server Raiding, Illegal Activities, etc. If you want to contact them, please be careful if you do.
-> [?THE LIST]
 > Incase there is anymore users that should be added, make a pull request or something with a user, their user ID, and what they did to have to be added, and we will add that person to this list. Also, if you are unsure how to use this list, do !ban (user ID here) (reason here) in your Discord server or whatever way a moderation bot ban command works.
 
 1. 824018036306214924 (@stilxvr)
