@@ -22,3 +22,7 @@
      - **Reason:** Leo's alt account where he pretended to be a four year old and said the N word. We're unsure if he still has access to this account.
 9. 1148697478686851112 (@bubbly_hare_37942)
      - **Reason:** A user's hacked account.
+10. 1444653805873532978 (@alexander073591)
+     - **Reason:** Scammer
+11. 1203703798497939500 (@realxonee)
+     - **Reason:** Hacked user sending a money scam.
