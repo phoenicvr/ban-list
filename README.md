@@ -26,3 +26,7 @@
      - **Reason:** Scammer
 11. 1203703798497939500 (@realxonee)
      - **Reason:** Hacked user sending a money scam.
+12. 1374112253401632920 (@skibidijacoob_09774)
+     - **Reason:** This user got hacked and sent a money scam, and might also be homophobic.
+13. 995162778572693558 (@cpn.dev.cs)
+     - **Reason:** Gave out a private 3D model without permission to a random kid and was being rude about it and also might be homophobic.
