@@ -34,3 +34,13 @@
      - **Reason:** Possible PlayFab player spammer.
 15. 1436490481528869105 (@exquisite_piglet_09035)
      - **Reason:** Might be a game modder and wanted to mod and PlayFab spam Phoenic/Zapish's game because "ts is butt".
+16. 988540013228724224 (@restarttag)
+     - **Reason:** Owner of a fangame/copy modding server.
+17. 1292942776740216915 (@pubertcs)
+     - **Reason:** Owner of a fangame/copy modding server.
+18. 1319706200438345800 (@._lazy._)
+     - **Reason:** One of the owners in a Big Scary copy, mods VR games, and says that they are a skid in their profile.
+19. 850660396665929768 (@dela.nft)
+     - **Reason:** NFT person.
+20. 215186248610873344 (@darknessorig.)
+     - **Reason:** Scammer
