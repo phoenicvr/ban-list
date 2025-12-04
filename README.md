@@ -13,7 +13,7 @@
 4. 689551737840730212 (@jumpsuit7244)
      - **Reason:** Scammer
 5. 1081726638464704532 (@mekogold1)
-     - **Reason:** Said weird inappropriate things to one of the people making this list and has something inappropriate in his bio.
+     - **Reason:** Said weird inappropriate things to one of the people making this list and has something inappropriate in his bio. He also used art by one of the people making this without permission as his profile picture (and he doesn't even know the game that the art is based on).
 6. 1245138297861443595 (@gregtherizzler27)
      - **Reason:** Makes Gorilla Tag copies (which is illegal) , was sexual to people younger than him, might also be racist, and has a 12 year old's IP adress and threatening the 12 year old with it.
 7. 1372247482469191916 (@frenzy_leo)
@@ -30,3 +30,7 @@
      - **Reason:** This user got hacked and sent a money scam, and might also be homophobic.
 13. 995162778572693558 (@cpn.dev.cs)
      - **Reason:** Gave out a private 3D model without permission to a random kid and was being rude about it and also might be homophobic.
+14. 1123294234389262507 (@exprese)
+     - **Reason:** Possible PlayFab player spammer.
+15. 1436490481528869105 (@exquisite_piglet_09035)
+     - **Reason:** Might be a game modder and wanted to mod and PlayFab spam Phoenic/Zapish's game because "ts is butt".
