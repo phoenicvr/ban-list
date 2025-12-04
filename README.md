@@ -44,3 +44,5 @@
      - **Reason:** NFT person.
 20. 215186248610873344 (@darknessorig.)
      - **Reason:** Scammer
+21. 1094628803126513775 (@mr_coolio)
+     - **Reason:** Using a model without permission, and when we tried to contact him, he never responded (and he was clearly online).
