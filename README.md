@@ -48,3 +48,5 @@
      - **Reason:** Using a model without permission, and when we tried to contact him, he never responded (and he was clearly online).
 22. 1094761770809311232 (@m4livesagain)
      - **Reason:** Owner of a VR game modding server.
+23. 826878551587422289 (@child7)
+     - **Reason:** Owner of a VR metadata modding server.
