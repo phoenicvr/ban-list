@@ -31,7 +31,7 @@
 13. 995162778572693558 (@cpn.dev.cs)
      - **Reason:** Gave out a private 3D model without permission to a random kid and was being rude about it and also might be homophobic.
 14. 1123294234389262507 (@exprese)
-     - **Reason:** Possible PlayFab player spammer.
+     - **Reason:** Possible PlayFab player spammer. He also wanted to mod a game because "tbh it looked ugly". He did apologise but still, please be careful if you see him.
 15. 1436490481528869105 (@exquisite_piglet_09035)
      - **Reason:** Might be a game modder and wanted to mod and PlayFab spam Phoenic/Zapish's game because "ts is butt".
 16. 988540013228724224 (@restarttag)
