@@ -52,3 +52,7 @@
      - **Reason:** Owner of a VR metadata modding server.
 24. 1134450176036188231 (@slashyt1)
      - **Reason:** This user got hacked and sent a money scam (guys please be more careful).
+25. 985262845061103637 (@mt4mod)
+     - **Reason:** Owner of a VR modding server that has illegal/pirated copies of VR games.
+26. 1189242902858174554 (@mrpluto64)
+     - **Reason:** Owner of a VR modding server that has illegal/pirated copies of VR games.
