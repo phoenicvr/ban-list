@@ -44,8 +44,8 @@
      - **Reason:** NFT person.
 20. 215186248610873344 (@darknessorig.)
      - **Reason:** Scammer
-21. 1094628803126513775 (@mr_coolio)
-     - **Reason:** Using a 3D model without permission, and when we tried to contact him, he never responded (and he was clearly online).
+21. 841025891206168578 (@badgorilla_fx)
+     - **Reason:** Using a 3D model without permission.
 22. 1094761770809311232 (@m4livesagain)
      - **Reason:** Owner of a VR game modding server.
 23. 826878551587422289 (@child7)
