@@ -1,58 +1,67 @@
-# Discord Server Ban List
-### People that you should ban from your Discord Server
-> [!IMPORTANT]
-> All of these users have broken guidelines, such as Hacking/Cheating/Modding, Doxxing, Scamming, Pornography, Server Raiding, Illegal Activities, etc. If you want to contact them, please be careful if you do.
-> Incase there is anymore users that should be added, make a pull request or something with a user, their user ID, and what they did to have to be added, and we will add that person to this list. Also, if you are unsure how to use this list, do !ban (user ID here) (reason here) in your Discord server or whatever way a moderation bot ban command works.
+# Discord Ban List
 
-1. 824018036306214924 (@stilxvr)
-     - **Reason:** Server Raiding, Associated with a Doxxer, and misinformation.
-2. 1411664241861201920 (@NUKER#4027)
-     - **Reason:** An unfunny server raid bot.
-3. 1357706087985447023 (@raid by emerode#1145)
-     - **Reason:** A server raid bot.
-4. 689551737840730212 (@jumpsuit7244)
-     - **Reason:** Scammer
-5. 1081726638464704532 (@mekogold1)
-     - **Reason:** Said weird inappropriate things to one of the people making this list and has something inappropriate in his bio. He also used art by one of the people making this without permission as his profile picture (and he doesn't even know the game that the art is based on).
-6. 1245138297861443595 (@gregtherizzler27)
-     - **Reason:** Makes Gorilla Tag copies (which is illegal) , was sexual to people younger than him, might also be racist, and has a 12 year old's IP adress and threatening the 12 year old with it.
-7. 1372247482469191916 (@frenzy_leo)
-     - **Reason:** Lied a lot for no reason, underage, being racist and saying he had bad mental health as an excuse for it, manipulative, and even lied about beating people up and being famous on YouTube.
-8. 1344200622555004948 (@bently0508)
-     - **Reason:** Leo's alt account where he pretended to be a four year old and said the N word. We're unsure if he still has access to this account.
-9. 1148697478686851112 (@bubbly_hare_37942)
-     - **Reason:** A user's hacked account.
-10. 1444653805873532978 (@alexander073591)
-     - **Reason:** Scammer
-11. 1203703798497939500 (@realxonee)
-     - **Reason:** Hacked user sending a money scam.
-12. 1374112253401632920 (@skibidijacoob_09774)
-     - **Reason:** This user got hacked and sent a money scam, and might also be homophobic.
-13. 995162778572693558 (@cpn.dev.cs)
-     - **Reason:** Gave out a private 3D model without permission to a random kid and was being rude about it and also might be homophobic.
-14. 1123294234389262507 (@exprese)
-     - **Reason:** Possible PlayFab player spammer. He also wanted to mod a game because "tbh it looked ugly". He did apologise but still, please be careful if you see him.
-15. 1436490481528869105 (@exquisite_piglet_09035)
-     - **Reason:** Might be a game modder and wanted to mod and PlayFab spam Phoenic/Zapish's game because "ts is butt".
-16. 988540013228724224 (@restarttag)
-     - **Reason:** Owner of a fangame/copy modding server.
-17. 1292942776740216915 (@pubertcs)
-     - **Reason:** Owner of a fangame/copy modding server.
-18. 1319706200438345800 (@._lazy._)
-     - **Reason:** One of the owners in a Big Scary copy, mods VR games, and says that they are a skid in their profile.
-19. 850660396665929768 (@dela.nft)
-     - **Reason:** NFT person.
-20. 215186248610873344 (@darknessorig.)
-     - **Reason:** Scammer
-21. 841025891206168578 (@badgorilla_fx)
-     - **Reason:** Using a 3D model without permission.
-22. 1094761770809311232 (@m4livesagain)
-     - **Reason:** Owner of a VR game modding server.
-23. 826878551587422289 (@child7)
-     - **Reason:** Owner of a VR metadata modding server.
-24. 1134450176036188231 (@slashyt1)
-     - **Reason:** This user got hacked and sent a money scam (guys please be more careful).
-25. 985262845061103637 (@mt4mod)
-     - **Reason:** Owner of a VR modding server that has illegal/pirated copies of VR games.
-26. 1189242902858174554 (@mrpluto64)
-     - **Reason:** Owner of a VR modding server that has illegal/pirated copies of VR games.
+A community-maintained list of Discord user IDs associated with repeated or severe rule violations.
+
+> [!NOTE]
+> This project is **not affiliated with Discord Inc.**  
+> “Discord” is a registered trademark of Discord Inc.
+
+---
+
+## About
+
+This repository exists to help moderators and server owners protect their communities by sharing information about users who have repeatedly violated rules across Discord servers.
+
+The list is provided in a simple text format to ensure compatibility with moderation tools and bots that support banning by user ID.
+
+---
+
+## Usage
+
+Open the `list.txt` file and use a Discord moderation bot that supports mass banning or banning by user ID.
+
+> [!IMPORTANT]
+> This repository provides **data only**.  
+> No bots, scripts, or automation are included.
+
+---
+
+## Contributing
+
+Contributions are welcome.
+
+If you believe a user should be added to the list, submit a pull request that includes:
+
+- The user’s Discord ID
+- A brief, factual description of the behavior that led to the recommendation
+
+All submissions are reviewed before being merged.
+
+> [!WARNING]
+> Submissions containing harassment, speculation, or private information will be rejected.
+
+---
+
+## Guidelines
+
+- Keep entries factual and concise  
+- Do not include private or sensitive information  
+- Do not submit unverifiable claims  
+
+Maintainers reserve the right to reject or remove entries at any time.
+
+---
+
+## Disclaimer
+
+> [!CAUTION]
+> This list is provided for moderation and safety purposes only.  
+> Inclusion does **not** imply legal judgment or official action by Discord.
+
+Server owners remain fully responsible for their own moderation decisions.
+
+---
+
+## License
+
+This repository is provided as-is for community use.
