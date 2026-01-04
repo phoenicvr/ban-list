@@ -6,12 +6,11 @@ A discord community ban list on github.
 
 ## How can I add someone?
 Create an Issue that includes their discord user id, discord @ (username), why, and proof (if needed).
+> [!WARNING]
+> Any Issue can be responded to and taken down by the discretion of our Contributors.
 
 ## How can I check why someone was added?
 Go to the individual-list.txt file and you can read all reasons why. Proof is not added.
-
-> [!WARNING]
-> Any Issue can be responded to and taken down by the discretion of our Contributors.
 
 ## WARNING
 
