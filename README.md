@@ -5,7 +5,10 @@ A discord community ban list on github.
 > Go to the list.txt file and copy the contents of it and use carl-bot's /moderation mass-ban {paste ids} to use this ban list. Please remember to keep on doing this frequently as we add more people to the list constantly.
 
 ## How can I add someone?
-Create a Issue that includes their discord user id, discord @ (username), why, and proof (if needed).
+Create an Issue that includes their discord user id, discord @ (username), why, and proof (if needed).
+
+## How can I check why someone was added?
+Go to the individual-list.txt file and you can read all reasons why. Proof is not added.
 
 > [!WARNING]
 > Any Issue can be responded to and taken down by the discretion of our Contributors.
