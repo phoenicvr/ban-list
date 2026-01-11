@@ -10,9 +10,6 @@ Create an Issue that includes their discord user id, discord @ (username), why, 
 > Any Issue can be responded to and taken down by the discretion of our Contributors.
 
 ## How can I check why someone was added?
-> [!NOTE]
-> If you mod VR games and you were added to this list, watch [this](https://www.youtube.com/watch?v=Qer3lwd5hyA) video to basically understand why.
-
 Go to the individual-list.txt file and you can read all reasons why. Proof is not added.
 
 ## WARNING
@@ -22,3 +19,6 @@ Go to the individual-list.txt file and you can read all reasons why. Proof is no
 > All IDs and People in the list are not required to get banned by Discord.
 > Server Owners remain responsible for their own decisions.
 > The Contributors are not liable for any false bans or damage caused by this list. We still try to keep this list as legitimate as possible.
+
+> [!NOTE]
+> If you mod VR games and you were added to this list, watch [this](https://www.youtube.com/watch?v=Qer3lwd5hyA) video to basically understand why.
