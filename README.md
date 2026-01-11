@@ -9,9 +9,9 @@ Create an Issue that includes their discord user id, discord @ (username), why, 
 > [!WARNING]
 > Any Issue can be responded to and taken down by the discretion of our Contributors.
 
-> [!NOTE]
-
 ## How can I check why someone was added?
+> [!NOTE]
+> If you mod VR games and you were added to this list, watch [this](https://www.youtube.com/watch?v=Qer3lwd5hyA) video to basically understand why.
 Go to the individual-list.txt file and you can read all reasons why. Proof is not added.
 
 ## WARNING
